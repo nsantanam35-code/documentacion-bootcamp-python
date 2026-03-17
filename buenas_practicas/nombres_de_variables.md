@@ -1,4 +1,4 @@
-TÍTULO DEL TEMA
+# NOMBRES DE VARIABLES
 Autor: Karen Ñanco Vásquez
 Fecha: 17-03-2026
 Issue relacionada: #40
